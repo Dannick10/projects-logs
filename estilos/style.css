@@ -86,7 +86,7 @@ form > input[type=submit]:hover{
     background-color:  #1C3659;
 }
 
-form > a.btn{
+ a.btn{
     display: block;
     text-align: center;
     font-size: 1em;
@@ -101,11 +101,11 @@ form > a.btn{
     color: #1C3659;
 }
 
-form > a.btn:hover{
+ a.btn:hover{
     background-color: aliceblue;
 }
 
-form a.btn > i {
+ a.btn > i {
     font-size: 0.8em;
 }
 
